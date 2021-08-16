@@ -1,0 +1,1 @@
+This is a project I made to get a basic understanding of how to use Jupyter notebooks and using Python for EDA. In this project I wanted to find out which Pokemon statistically was the best option to choose as a starter in the generation 1 Pokemon games.
